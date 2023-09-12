@@ -1,9 +1,9 @@
 #include "main.h"
 
 /*
- * main - entry point
+ * main - Entry point
  *
- * Description: print _putchar using putchar
+ * Description: print _putchar eithout printf ot puts
  *
  * Return: Always 0 (success)
 */
