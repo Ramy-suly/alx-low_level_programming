@@ -1,3 +1,3 @@
 #!/bin/bash
-gcc -c $(find -name"*.c")
+gcc -c $(find . -namei "*.c")
 ar rc liball.a *.o
